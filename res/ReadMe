@@ -1,0 +1,1 @@
+./darwinia build-spec --chain pangoro-local --disable-default-bootnode --raw > para-2046-raw.json
